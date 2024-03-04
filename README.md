@@ -1,2 +1,2 @@
-# Python
-#これはPython学習用リポジトリです。
+# Django
+#これはDjango学習用リポジトリです。
